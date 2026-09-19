@@ -1,12 +1,12 @@
-# 🎮 Hangman Game
+#  Hangman Game
 
-## 📌 Project Overview
+##  Project Overview
 
 A simple text-based Hangman word guessing game developed using Python for the CodeAlpha Python Developer Internship.
 
 The player must guess a randomly selected word one letter at a time before running out of attempts.
 
-## 🎯 Objective
+##   bjective
 
 This project demonstrates practical Python programming concepts including:
 
@@ -20,7 +20,7 @@ This project demonstrates practical Python programming concepts including:
 - Random module
 - Input validation
 
-## ✨ Features
+##  Features
 
 - 🎲 Random word selection
 - 🎯 Three difficulty levels
@@ -36,7 +36,7 @@ This project demonstrates practical Python programming concepts including:
 - 📊 Game statistics
 - 🔄 Play-again option
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - Python Standard Library
@@ -50,7 +50,7 @@ This project demonstrates practical Python programming concepts including:
 | Medium | 6 |
 | Hard | 4 |
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install Python 3.
 2. Download or clone this repository.
@@ -63,7 +63,7 @@ python task1.py
 
 The project can also be run using Python IDEs such as Pydroid 3.
 
-## 🎯 How to Play
+##  How to Play
 
 1. Select a difficulty level.
 2. The program randomly selects a word.
@@ -81,7 +81,7 @@ The score is calculated using:
 - Selected difficulty
 - Remaining attempts
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 CodeAlpha-Hangman/
