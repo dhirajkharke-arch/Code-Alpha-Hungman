@@ -6,7 +6,7 @@ A simple text-based Hangman word guessing game developed using Python for the Co
 
 The player must guess a randomly selected word one letter at a time before running out of attempts.
 
-##   bjective
+##   Objective
 
 This project demonstrates practical Python programming concepts including:
 
@@ -93,7 +93,7 @@ CodeAlpha-Hangman/
     └── result.png
 ```
 
-## 👨‍💻 Developer
+##  Developer
 
 **Dhiraj**
 
